@@ -28,7 +28,6 @@ cash_good_answer_bonus = 10   # Bonus si 3 tous les mots de la manche découvert
 base_menu = 0
 end_game = 0
 
-os.system('clear')
 # • RÉGLER AFFICHAGE •
 print(BRIGHT,'''
 
