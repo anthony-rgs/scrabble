@@ -36,9 +36,10 @@ Dans le cadre d'un premier projet Python dans mon [école](https://www.hetic.net
 - Si le mot à deviner comporte un espace, un tiret ou un apostrophe, le jeu les affiche et les supprime de la liste de lettres → ***photo 5***
 - Pendant une partie il y a la possibilité de skip la manche, de retourner au menu, d'ouvrir un magasin pour acheter des mots de la manche et de quitter le jeu → ***photo 5***
 - Les parties se déroulent en 3 manches de 3 mots à deviner, affichage des mots déjà mis avec blocage si le mot est répété et l'ordinateur affiche si le joueur a bien trouver le mot ou si il s'est trompé → ***photo 6***
-- À chaque bonne réponse on gagne des points et du cash → ***photo 7***
-- Mode de jeu caché en rentrant comme choix "666" dans le menu (attention si vous perdez, le jeu se termine). Dans ce mode de jeu toutes les listes sont mélangés 
+- À chaque bonne réponse on gagne des points et du cash → ***photo 6***
+- Mode de jeu caché en rentrant comme choix "666" dans le menu (attention si vous perdez, le jeu se termine). Dans ce mode de jeu toutes les listes sont mélangés → ***photo 7***
 - Couleurs et clear automatique pour rendre l'interface plus jolie
+- Jeu finit et impossible à faire crash (normalement)
 
 <br>
 
@@ -81,4 +82,11 @@ Dans le cadre d'un premier projet Python dans mon [école](https://www.hetic.net
   <img width="33%" src="image/find.png" />
   <img width="33%" src="image/miss.png" />
   <img width="33%" src="image/already-use.png" />
+</p>
+
+#### Photo 7 → Mode de jeu caché (dialogue, affichage du jeu)
+<p align="center">
+  <img width="45%" src="image/hell.png" />
+  <img width="45%" src="image/hell-game.png" />
+
 </p>
