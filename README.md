@@ -79,9 +79,9 @@ Dans le cadre d'un premier projet Python dans mon [école](https://www.hetic.net
 
 #### Photo 6 → Réponses du joueur (bonne réponse, mauvaise réponse, déjà dis)
 <p align="center">
-  <img width="33%" src="image/find.png" />
-  <img width="33%" src="image/miss.png" />
-  <img width="33%" src="image/already-use.png" />
+  <img width="40%" src="image/find.png" />
+  <img width="40%" src="image/miss.png" />
+  <img width="40%" src="image/already-use.png" />
 </p>
 
 #### Photo 7 → Mode de jeu caché (dialogue, affichage du jeu)
