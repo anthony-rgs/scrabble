@@ -43,7 +43,7 @@ Dans le cadre d'un premier projet Python dans mon [école](https://www.hetic.net
 
 <br>
 
-### 4. Technologies utilisées
+### 4. Technologie utilisée
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
